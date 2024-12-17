@@ -16,7 +16,5 @@ https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 The following characteristics apply for benchmarking the dataset :
 
 Multi-class classification issue using a single picture
-Over 40 courses
-
-Over 50,000 photos in total
-A huge, realistic database
+1. Over 50,000 photos in total
+2. A huge, realistic database
